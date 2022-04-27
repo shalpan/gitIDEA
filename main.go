@@ -1,1 +1,5 @@
 package gitIDEA
+
+func main() {
+
+}
